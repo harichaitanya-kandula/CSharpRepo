@@ -1,0 +1,12 @@
+﻿Name: Emily Smith
+Age: 10
+Gender:Female
+Standard: 5
+Name: tom Jones
+Age: 12
+Gender:Male
+Standard: 7
+Name: Tony Seb
+Age: 10
+Gender:Male
+Standard: 5
