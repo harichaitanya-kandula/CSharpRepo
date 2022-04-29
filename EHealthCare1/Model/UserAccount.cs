@@ -12,5 +12,7 @@ namespace EHealthCare1.Model
         public string Password { get; set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }
+        public bool? IsAdmin { get; set; }
+        public int? Amount { get; set; }
     }
 }

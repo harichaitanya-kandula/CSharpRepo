@@ -12,5 +12,6 @@ namespace EHealthCare1.Model
         public string Description { get; set; }
         public string AgeLimit { get; set; }
         public bool? OverTheCounter { get; set; }
+        public int? Price { get; set; }
     }
 }
